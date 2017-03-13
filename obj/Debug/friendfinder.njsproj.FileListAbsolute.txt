@@ -1,0 +1,2 @@
+C:\Development_C\Homework\friendfinder\obj\Debug\friendfinder.njsprojResolveAssemblyReference.cache
+C:\Development_C\Homework\friendfinder\bin\Microsoft.NodejsTools.WebRole.dll
